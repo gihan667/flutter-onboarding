@@ -1,16 +1,14 @@
-# intro
+# Flutter Onboarding Screen - Food App Flutter - Episode 1
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/8gFSCh8WCfo)
 
-## Getting Started
+Onboarding Screen
 
-This project is a starting point for a Flutter application.
+Today, I will show you how easily you can create an onboarding (Walkthrough) screen on Flutter without any package.
 
-A few resources to get you started if this is your first Flutter project:
+At first, we have an image, then a large title with short one or two lines of text. The bottom of the screen contains a gradient button for navigating to the next page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App UI](/mock1.png)
+![App UI](/mock2.png)
